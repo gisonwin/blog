@@ -1,4 +1,4 @@
-# Typora编写基于LaTex的数学公式常见示例
+﻿# Typora编写基于LaTex的数学公式常见示例
 
 ------
 
